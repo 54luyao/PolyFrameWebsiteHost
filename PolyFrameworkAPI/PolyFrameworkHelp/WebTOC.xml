@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0b0e64ad-04a3-44e5-ac7f-81ed2b71013f" Title="PolyFramework" Url="html/f1f75ad1-6113-aa3c-faa9-f5898b27d8d9.htm">
+    <HelpTOCNode Title="ContainerType Enumeration" Url="html/a7f6387b-50ed-d71a-6676-023eef04a156.htm" />
+    <HelpTOCNode Id="8e3b3dbe-b0ec-4036-a788-b07adb814308" Title="DrawPFLineConduit Class" Url="html/712e4729-8c05-73c3-3d38-d041084ef9fb.htm">
+      <HelpTOCNode Title="DrawPFLineConduit Constructor " Url="html/636abae7-0170-8db2-9e5b-46a468a896a6.htm" />
+      <HelpTOCNode Title="DrawPFLineConduit Properties" Url="html/4e5da5af-02f2-f475-caab-5db1297f110c.htm" />
+      <HelpTOCNode Id="80ee80b4-807d-47e0-ad90-3d6b19204758" Title="DrawPFLineConduit Methods" Url="html/aa85f0c6-0a96-dfbd-5537-fbbe0eea6a84.htm">
+        <HelpTOCNode Title="CalculateBoundingBox Method " Url="html/1aa626f8-2606-bbea-e5dd-02b0b2a0eb7a.htm" />
+        <HelpTOCNode Title="PreDrawObjects Method " Url="html/432fcf21-0c97-a33f-5096-f0656ed81435.htm" />
+        <HelpTOCNode Title="UpdateLines Method " Url="html/9e867a1f-fd84-3a3b-f417-e2d73e48aa2e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="09f9da78-84e4-462e-9ff7-170b95d83685" Title="DrawPFLinesConduit Class" Url="html/953ed08c-f6b3-ecf5-29ea-2d89da77c21d.htm">
+      <HelpTOCNode Title="DrawPFLinesConduit Constructor " Url="html/e885a3d2-0630-d45a-1c4b-c74a719d1629.htm" />
+      <HelpTOCNode Title="DrawPFLinesConduit Properties" Url="html/5f6694cf-6ded-0e6a-ab37-0343773a0b00.htm" />
+      <HelpTOCNode Id="b31bbc5a-b2a0-433d-a7b0-cc6797c93e0f" Title="DrawPFLinesConduit Methods" Url="html/30a8acbf-8828-9483-56cb-c094142d3c1b.htm">
+        <HelpTOCNode Title="CalculateBoundingBox Method " Url="html/c4eda3f1-4121-8436-6767-8bcf51494889.htm" />
+        <HelpTOCNode Title="PreDrawObjects Method " Url="html/491499ae-c404-98f7-8929-6cf18e9aed7d.htm" />
+        <HelpTOCNode Title="UpdateColors Method " Url="html/8e883844-3ca1-eb3d-8065-990c1c1b5d19.htm" />
+        <HelpTOCNode Title="UpdateLines Method " Url="html/466fa558-9792-7e05-9bc3-e78ae6c00c60.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2f619c10-21f8-468a-a822-f1f0e49c061d" Title="EEdge Class" Url="html/0460f15d-8b3c-c327-0c19-ca52e12e4648.htm">
+      <HelpTOCNode Id="40349212-163e-4fd8-a89d-5df93db54d21" Title="EEdge Properties" Url="html/dce19bac-f971-504b-1495-39d7299192f2.htm">
+        <HelpTOCNode Title="Coresp Property " Url="html/0631e9eb-7099-6f64-5bde-92e5799ff36c.htm" />
+        <HelpTOCNode Title="Edge Property " Url="html/87fde09d-4bd6-8158-f6a2-e53dc05f0465.htm" />
+        <HelpTOCNode Title="Flipped Property " Url="html/5552b961-a765-0a32-15f2-415d9692b05e.htm" />
+        <HelpTOCNode Title="Line Property " Url="html/e85dbff5-20d7-ab3e-3919-f4f131c7b893.htm" />
+        <HelpTOCNode Title="Moved Property " Url="html/26fb4bf0-a7fc-7e88-ee3c-9370353cf223.htm" />
+        <HelpTOCNode Title="StubVertices Property " Url="html/2c646311-58ff-d039-4765-1bf1fa74ee6f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a9e520f6-d507-400d-8eb4-1fda5906e671" Title="EEdge Methods" Url="html/5a3a57fc-d389-aef8-2d2e-b7797b3cc153.htm">
+        <HelpTOCNode Title="GetHashCode Method " Url="html/ee93c7f4-d9c6-d56c-ff24-a7b5fae54443.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/fbb21542-ec54-4160-399f-1795c8cdc5ad.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="10f097fc-cb89-4594-8d42-7e27c169e936" Title="EFace Class" Url="html/8240c71a-4084-7ebd-dbca-2c1ed0442125.htm">
+      <HelpTOCNode Id="caabd8ca-13c3-43ac-859e-938eb10fdf25" Title="EFace Properties" Url="html/ab36b13b-b219-7da5-0a92-c63caaf653e3.htm">
+        <HelpTOCNode Title="ActiQueue Property " Url="html/e5ba32ae-bda1-0ddd-d482-0ade5c0554fa.htm" />
+        <HelpTOCNode Title="Active Property " Url="html/30d2c1aa-5d30-1260-6658-6fd49d574e74.htm" />
+        <HelpTOCNode Title="Coresp Property " Url="html/fedab2d3-8880-32da-a10a-307a3cf5b5dd.htm" />
+        <HelpTOCNode Title="Face Property " Url="html/de68c9f4-4f34-1be4-a3f2-72334e73ab83.htm" />
+        <HelpTOCNode Title="InPlane Property " Url="html/9068c444-d434-278f-cf1c-d575b7492044.htm" />
+        <HelpTOCNode Title="Moved Property " Url="html/0d5cc0f1-86d5-b617-55ba-f66f8fb8beb5.htm" />
+        <HelpTOCNode Title="PlanarQueue Property " Url="html/5be8d483-59b4-0d61-0418-f4ca4a8ac6a4.htm" />
+        <HelpTOCNode Title="Plane Property " Url="html/7ba13c94-c920-ba4d-0187-1449eaf26626.htm" />
+        <HelpTOCNode Title="Stubs Property " Url="html/dd9de317-2eed-3993-6878-d41654ec1701.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9c6f72d5-e5d9-4bea-ab29-a5c7da15726c" Title="EFace Methods" Url="html/a4e4ac10-4b4a-fa21-b57b-99163893b62a.htm">
+        <HelpTOCNode Title="GetHashCode Method " Url="html/0f89c0b9-e581-c5b1-dd97-42dbbf6c4b65.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/f7f12757-1c97-bb0b-57d5-f7f0c94c293c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="52ff2400-0247-469e-80c6-df419b320154" Title="EVertex Class" Url="html/4552dabf-e89f-1f5d-1836-5e58dfb9f102.htm">
+      <HelpTOCNode Id="10420069-39be-4722-82ac-4ff485932c74" Title="EVertex Properties" Url="html/4928d37f-d188-b449-52f9-5d1001d0faca.htm">
+        <HelpTOCNode Title="Coresp Property " Url="html/513d6951-1726-d046-321c-747d02d1647b.htm" />
+        <HelpTOCNode Title="InEdges Property " Url="html/7b75d366-647d-3326-b2ce-6a459384ccea.htm" />
+        <HelpTOCNode Title="InFaces Property " Url="html/e1b26357-3491-86b4-157f-32b9f91732ba.htm" />
+        <HelpTOCNode Title="Moved Property " Url="html/07997963-b63e-7c97-86d2-8a8601e1b32a.htm" />
+        <HelpTOCNode Title="Parsed Property " Url="html/fb99cad2-74ec-a5b9-35d4-87edb647b86a.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/98ee283d-10df-ef7b-c7fe-c75016e0e197.htm" />
+        <HelpTOCNode Title="Vertex Property " Url="html/519b5d45-900e-4516-7241-429652ab659e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c735f398-5e1a-47e1-a02d-2793584871bc" Title="EVertex Methods" Url="html/1b7526d5-2192-10c6-07b3-af59bbf502f8.htm">
+        <HelpTOCNode Title="GetHashCode Method " Url="html/4d2dbe0d-fe40-5387-e339-fac1b3797678.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/83055a7b-2f83-3ab8-e747-89318467f8f9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8bcc0184-dfa4-405f-8a3b-949c3ab07f3c" Title="GetData Class" Url="html/88950c1b-500f-9b36-50eb-0e3d3bf76903.htm">
+      <HelpTOCNode Id="d7d5b901-e52a-499d-9482-71f818db62e2" Title="GetData Methods" Url="html/6f19d847-56af-de09-f2f1-720b110bd9b2.htm">
+        <HelpTOCNode Title="GetDoubleInViewport Method " Url="html/67a7aab1-591f-be86-1495-26286dc91d60.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2267a0d9-f9b0-4563-9ad0-db8c92d136c7" Title="GetPFEdge Class" Url="html/efc65c80-dfc3-d49b-63bf-b561d43ccc68.htm">
+      <HelpTOCNode Title="GetPFEdge Constructor " Url="html/5a814b65-0011-54a0-0fb0-c632021fad66.htm" />
+      <HelpTOCNode Title="GetPFEdge Properties" Url="html/83e20702-6a14-acca-f7f0-6386e236a2db.htm" />
+      <HelpTOCNode Id="6f263595-94ab-405d-9199-8ea9a009c5ff" Title="GetPFEdge Methods" Url="html/c4e6fcb7-abe1-5b3c-c0fc-9c5af53e8423.htm">
+        <HelpTOCNode Title="OnMouseDown Method " Url="html/1666286a-e3d9-d658-13e3-45aa450bce40.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GetPFEdge Events" Url="html/19615a3e-f3a1-7200-6aed-74d674603ac3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a67c0e8-48de-4dd8-8fe2-be5bea5077bb" Title="GetPFFace Class" Url="html/ab5a57bd-0441-f2ec-89f6-4517f942a8ca.htm">
+      <HelpTOCNode Title="GetPFFace Constructor " Url="html/d06d4a5b-e1d8-0bfc-e9f3-0469f937a953.htm" />
+      <HelpTOCNode Title="GetPFFace Properties" Url="html/242ae6a1-41e9-b1f2-6a44-214c703e0a73.htm" />
+      <HelpTOCNode Id="6014c456-b18f-40e5-99c1-b4a8f22617b8" Title="GetPFFace Methods" Url="html/260b64dd-f051-b13c-f433-02c0946e8e08.htm">
+        <HelpTOCNode Title="OnMouseDown Method " Url="html/69490334-0e12-8d83-9ba9-042df4bcf88f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GetPFFace Events" Url="html/678695e5-38d6-014a-7abd-9bdad33fb9c2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="67c660b3-5d61-4ad7-8ad4-8e6263ac8c73" Title="GetPFVertex Class" Url="html/07ec8e0d-5fab-976f-8e72-a5657fc0bf61.htm">
+      <HelpTOCNode Title="GetPFVertex Constructor " Url="html/bb395ca0-466d-660c-b34b-ca04c215d35f.htm" />
+      <HelpTOCNode Title="GetPFVertex Properties" Url="html/8983bcdb-1508-cb5a-1843-460f07f448ff.htm" />
+      <HelpTOCNode Id="423d53e3-c46f-45ad-8e30-e251b2f61932" Title="GetPFVertex Methods" Url="html/87ebcad3-ad1c-7ebc-187c-0d6084655c22.htm">
+        <HelpTOCNode Title="OnMouseDown Method " Url="html/d5c233ab-f24b-5122-b4fb-54b71c4d022e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GetPFVertex Events" Url="html/4bbc8bc8-2d37-2673-c473-601177b243f9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="acd16971-aeed-47a9-a69e-7e507e617808" Title="GetPolyTransPoint Class" Url="html/dfb2a5a2-8ce2-d787-3bc5-b24761454b60.htm">
+      <HelpTOCNode Title="GetPolyTransPoint Constructor " Url="html/ae2ec52b-da53-8011-3d2e-79532349d721.htm" />
+      <HelpTOCNode Title="GetPolyTransPoint Properties" Url="html/99cc2668-76fa-095d-18fc-50b2bed908e8.htm" />
+      <HelpTOCNode Id="60a84889-5b17-4921-b31d-859ee737726d" Title="GetPolyTransPoint Methods" Url="html/f8200775-59ee-290f-33ca-f040bc10bf99.htm">
+        <HelpTOCNode Title="OnDynamicDraw Method " Url="html/76a4d797-13de-4a12-dbec-957dfc83a6f6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GetPolyTransPoint Events" Url="html/6ff98b6e-84e3-6c8c-d3e5-99d75a7939ff.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0a8a8163-6884-4c21-890b-dcae80be5e3c" Title="LoadData Class" Url="html/9edd02e7-3cad-8578-1b7d-26f08005a388.htm">
+      <HelpTOCNode Id="0637d81c-22db-4c9e-9c83-2c721ffef754" Title="LoadData Methods" Url="html/aefe2dee-b592-616d-4977-a47db3e3be23.htm">
+        <HelpTOCNode Title="LoadFromCells Method " Url="html/01b6e182-770e-6701-cba7-9ba9fc187974.htm" />
+        <HelpTOCNode Title="LoadFromEdges Method " Url="html/1ae99bdd-d802-ddb4-c43c-f2d26f203841.htm" />
+        <HelpTOCNode Title="LoadFromFaces Method " Url="html/d1e1b350-dbc5-1a31-81de-3909df44163f.htm" />
+        <HelpTOCNode Title="LoadFromMeshes Method " Url="html/366f959c-0ca3-a9f8-c034-05358ff31336.htm" />
+        <HelpTOCNode Title="LoadPrimalDual Method " Url="html/0ba10498-9b03-e79e-713a-91c3b26b3e5c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="095e7018-0bfc-4853-ba53-42a5440c2075" Title="PFCell Class" Url="html/ec356a1c-b07d-24fa-f7cb-30ddccc4efca.htm">
+      <HelpTOCNode Id="70151acc-3f81-4ae5-94e0-ca263fad2511" Title="PFCell Constructor " Url="html/bce6f3ce-99be-c8e1-afd9-ae7c42955006.htm">
+        <HelpTOCNode Title="PFCell Constructor " Url="html/6c1ae972-c8dd-f612-4aa6-f5d7ce5020d9.htm" />
+        <HelpTOCNode Title="PFCell Constructor (Int32)" Url="html/b49ea35f-ba91-d8b4-90ee-7a64bc924fb2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7ec1e2b-b280-40d8-a0f1-e3b4b28b66ed" Title="PFCell Properties" Url="html/edf8a7f3-c6a6-37f8-6c2f-11c53b21b5e1.htm">
+        <HelpTOCNode Title="CellMesh Property " Url="html/a6971ae9-8418-490a-1c3f-a27c333b6c84.htm" />
+        <HelpTOCNode Title="Centroid Property " Url="html/55d5bd5c-5125-66ae-e9e9-21ee86f4bb0c.htm" />
+        <HelpTOCNode Title="Dual Property " Url="html/5ea56fa3-85af-2af5-aca3-fe512d411f3e.htm" />
+        <HelpTOCNode Title="Edges Property " Url="html/a7621417-246f-c899-6131-17243b5821b9.htm" />
+        <HelpTOCNode Title="Exterior Property " Url="html/0ee7f1a5-bdac-5ff8-04a4-1cdbbd670327.htm" />
+        <HelpTOCNode Title="Faces Property " Url="html/c7b0b825-c43e-5c83-730a-5c2dfb2c33da.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/63f2441f-c4aa-6ef9-9cb1-1d78dae43e1b.htm" />
+        <HelpTOCNode Title="Vertices Property " Url="html/a5a98cce-7bc7-8011-590f-b9e980a57c6a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe11f6a7-9802-4a0c-ae99-3d3c24335e6d" Title="PFCell Methods" Url="html/9de95498-042c-32d4-0b96-a2e64955f57c.htm">
+        <HelpTOCNode Title="AgregateCellMesh Method " Url="html/2d7da880-cd85-3303-638f-530722d6a6ca.htm" />
+        <HelpTOCNode Title="ComputeCentroid Method " Url="html/8da69efc-a09b-575b-db92-942ad3442283.htm" />
+        <HelpTOCNode Title="CreateBrep Method " Url="html/78a6958c-835b-c5ad-9a3e-3989be464105.htm" />
+        <HelpTOCNode Title="CreateBrepMatched Method " Url="html/3356ddd0-ae00-f7c8-a038-0f724189236b.htm" />
+        <HelpTOCNode Title="CreateBrepsFromFaces Method " Url="html/b3b3259b-0a66-cb08-004a-95a9fcb83a3a.htm" />
+        <HelpTOCNode Title="CreateCellMesh Method " Url="html/d16cc716-7293-bf1e-38a2-7fb07bfc0c61.htm" />
+        <HelpTOCNode Title="DualUpdateAllFromFaces Method " Url="html/4c59802f-c521-41fd-52c0-4bc543ab4f92.htm" />
+        <HelpTOCNode Title="SerializeDict Method " Url="html/70d6b961-df24-610a-3150-24c4e56e075e.htm" />
+        <HelpTOCNode Title="SerializeJson Method " Url="html/e472f391-9218-66f3-f3a7-d202e26869f2.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/ab622958-15f1-f4f3-d1a8-ef8c8b239be5.htm" />
+        <HelpTOCNode Title="UpdateAllFromFaces Method " Url="html/ebd3eece-1b0b-e6ad-592d-6059a7c66a7b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f76c3e2d-72b6-4597-b740-6726ceef992a" Title="PFEdge Class" Url="html/1ec833ef-2a61-91a8-98c2-ad23d546bf19.htm">
+      <HelpTOCNode Id="f94b7944-ea0d-4995-9813-fce5cd079064" Title="PFEdge Constructor " Url="html/9bbfa1d8-d9dd-08c1-7b42-fd72582dbd35.htm">
+        <HelpTOCNode Title="PFEdge Constructor " Url="html/0d77660b-681e-74e2-5dd8-243c9d2c9e13.htm" />
+        <HelpTOCNode Title="PFEdge Constructor (Int32)" Url="html/9b8f2d47-d91f-b06d-2db8-8c28f3cc5e46.htm" />
+        <HelpTOCNode Title="PFEdge Constructor (Int32, IList(PFVertex))" Url="html/170fe6ec-c7a8-d2c7-0eaa-2189d6694a14.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a55b0eb-3614-4ac3-989a-d157992459be" Title="PFEdge Properties" Url="html/96b59550-fa4a-a297-a5e5-b835c2bcb103.htm">
+        <HelpTOCNode Title="Deviation Property " Url="html/41223541-ba17-432c-ac9a-02c34247d700.htm" />
+        <HelpTOCNode Title="Dual Property " Url="html/326376e8-9102-cada-0141-873fecb1744a.htm" />
+        <HelpTOCNode Title="External Property " Url="html/16e35ec8-bb9e-2759-f772-62f3f408fdde.htm" />
+        <HelpTOCNode Title="FaceAngle Property " Url="html/f2ba73c3-47bd-f92c-3f08-12c93c4fc6aa.htm" />
+        <HelpTOCNode Title="Faces Property " Url="html/4e4b6fcb-2ff4-2e52-c363-647c3df60810.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/8efbdd50-d8af-e1b3-bfd3-c5e48b347ab7.htm" />
+        <HelpTOCNode Title="InfluenceCoef Property " Url="html/81caafa4-1cb1-cc23-5bc6-71c5eba5c30a.htm" />
+        <HelpTOCNode Title="MaxLength Property " Url="html/3471e28f-47a7-e8da-06a1-2c0db10d8cea.htm" />
+        <HelpTOCNode Title="MinLength Property " Url="html/2b3fab9d-5037-9edd-c1a5-392d55c5474c.htm" />
+        <HelpTOCNode Title="Pair Property " Url="html/bc39a4a0-0e18-71ff-13cd-f5419c6ece3b.htm" />
+        <HelpTOCNode Title="Picked Property " Url="html/c1868431-2344-b529-a636-5d3e94f92340.htm" />
+        <HelpTOCNode Title="TargetLength Property " Url="html/76b5f16a-6485-bf19-b349-fb4d563d5713.htm" />
+        <HelpTOCNode Title="Vertices Property " Url="html/e636ec8f-d94d-78cf-9f4b-efd3e1b6c658.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ce893acf-1032-4ff8-8e81-68058c1e32ab" Title="PFEdge Methods" Url="html/db5aa122-e842-44c9-0203-4254de03adf7.htm">
+        <HelpTOCNode Title="AngleToDir Method " Url="html/8ad1e521-6028-765f-7225-2223d0c9fd30.htm" />
+        <HelpTOCNode Title="AngleToDual Method " Url="html/1c41aa03-3f91-956e-a353-a56aa61021f4.htm" />
+        <HelpTOCNode Title="CreateLine Method " Url="html/dc490162-c1a0-38ed-8f03-4a24b40a7cc6.htm" />
+        <HelpTOCNode Title="CreatePair Method " Url="html/9de5d92c-744d-e1ef-e80a-29f0bc235c34.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/fd44790a-c765-3960-b0c7-823f9353d4ab.htm" />
+        <HelpTOCNode Title="FacePairs Method " Url="html/4d52c321-98e7-eab4-90cb-13e052f2dc4f.htm" />
+        <HelpTOCNode Title="GetDirectionVector Method " Url="html/080e5234-b1db-01aa-c6ee-9177bf7a0b91.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/e7937a2c-6024-2417-3c4f-0c5d9d1137ad.htm" />
+        <HelpTOCNode Title="GetLength Method " Url="html/9e968e6c-fe0b-ec3a-5754-4de15fdfbd4d.htm" />
+        <HelpTOCNode Title="InterPerp Method " Url="html/717d95fb-2657-79f5-8c27-1b17ce5b2ad9.htm" />
+        <HelpTOCNode Title="OrientationToDual Method " Url="html/4c1b1d78-0a09-f4da-b935-c9100e5d540a.htm" />
+        <HelpTOCNode Title="PerpEdge Method " Url="html/ad3e2088-c139-2da6-599b-d99f98a83220.htm" />
+        <HelpTOCNode Title="PerpScale_Soft Method " Url="html/457b2fe5-491a-d4b0-de02-0022ca9c5307.htm" />
+        <HelpTOCNode Title="PointInCell Method " Url="html/f52bb033-2013-e73d-6539-4c4c8194e8e3.htm" />
+        <HelpTOCNode Title="Scale_Soft Method " Url="html/b9ba2db5-68fb-e2e0-4c90-5e4eef1d6b09.htm" />
+        <HelpTOCNode Title="ScaleEdge Method " Url="html/01d23127-8f4d-c2f2-64e6-851f383a84b9.htm" />
+        <HelpTOCNode Title="ScaleToDir Method " Url="html/25a542c5-09d3-86c0-5b86-9705c0a7e58e.htm" />
+        <HelpTOCNode Title="SerializeDict Method " Url="html/3c06ca50-a669-6558-ecfa-df95d356077d.htm" />
+        <HelpTOCNode Title="SerializeJson Method " Url="html/f3b38d96-7702-f177-0234-ee039bd43f8a.htm" />
+        <HelpTOCNode Title="SortFacesByAngle Method " Url="html/6375da88-9158-2d05-b6cb-57944c59be6f.htm" />
+        <HelpTOCNode Title="SwitchPoints Method " Url="html/11eb3101-61f3-ee1a-bc37-1a7806813870.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/f87943a6-8f03-ffa0-0bb6-e6c43921387f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e4a6aa3-490f-4276-8dd8-13d845959581" Title="PFFace Class" Url="html/3ff8a4c6-d094-5b0a-cf12-a8799eaa960c.htm">
+      <HelpTOCNode Id="41309dc0-5280-4b14-a7f6-c6c93099c5aa" Title="PFFace Constructor " Url="html/c400a710-5a43-8da5-4709-f152daecb3c3.htm">
+        <HelpTOCNode Title="PFFace Constructor " Url="html/b9d968e4-c1a2-5ace-6c91-2822d0ce4eeb.htm" />
+        <HelpTOCNode Title="PFFace Constructor (Int32)" Url="html/1acc52d4-3f92-00da-4313-6a467615754e.htm" />
+        <HelpTOCNode Title="PFFace Constructor (Int32, IList(PFVertex))" Url="html/e8d66af8-00a8-f578-3850-7d6e3c3aec09.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7222ec2-6e47-4732-917d-bb1d995f50bc" Title="PFFace Properties" Url="html/0b3a4d11-d4d4-5e50-5d1b-d72437a289a5.htm">
+        <HelpTOCNode Title="Area Property " Url="html/1c509ded-9914-5d85-13d6-b53567f03ce3.htm" />
+        <HelpTOCNode Title="Cell Property " Url="html/5175dbf7-90d1-a3e7-5785-097b1cc265ca.htm" />
+        <HelpTOCNode Title="Centroid Property " Url="html/558b8c82-f134-75c6-b7ba-075b4bca83ab.htm" />
+        <HelpTOCNode Title="Dual Property " Url="html/1ae0bc05-805f-aa7f-5c57-eeca431e5945.htm" />
+        <HelpTOCNode Title="Edges Property " Url="html/392b890e-0152-8b67-edca-5f25b17141e0.htm" />
+        <HelpTOCNode Title="External Property " Url="html/ab08b0fb-1a0b-83a3-c738-10db1e52cdcc.htm" />
+        <HelpTOCNode Title="FacePlane Property " Url="html/99baa650-f582-797a-65fe-d7ee683e85cf.htm" />
+        <HelpTOCNode Title="FMesh Property " Url="html/0ea2d06a-8bc3-6ba1-41d9-0971d67eec90.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/930d696e-caab-3b6e-fba3-03b0d82fa9dd.htm" />
+        <HelpTOCNode Title="InfluenceCoef Property " Url="html/876e728d-381f-0d6f-4097-1d7b701a3d3a.htm" />
+        <HelpTOCNode Title="Neighbors Property " Url="html/c86dbb68-ce4a-26a8-09af-e0dd28044518.htm" />
+        <HelpTOCNode Title="Normal Property " Url="html/d73a4c64-a69a-2a70-c87e-c246b2280e47.htm" />
+        <HelpTOCNode Title="Pair Property " Url="html/968707c2-5d3f-964f-4a02-204b33c38c09.htm" />
+        <HelpTOCNode Title="Picked Property " Url="html/f4a46fd5-0860-1970-79e0-8bd21db9ec87.htm" />
+        <HelpTOCNode Title="Planarized Property " Url="html/4442fcf0-2e8e-d2d5-ed7e-9beda56b7ff0.htm" />
+        <HelpTOCNode Title="TargetArea Property " Url="html/94629440-e9c4-ef71-8c4d-434d1910a111.htm" />
+        <HelpTOCNode Title="Vertices Property " Url="html/1b81c9c0-1fde-0e8b-85e4-764d81cf9af7.htm" />
+        <HelpTOCNode Title="VertPlanDeviations Property " Url="html/54ec226d-f94a-3e04-906d-345c53bb6735.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e334f10-fa7e-4031-8ddb-b6ced6b52bd0" Title="PFFace Methods" Url="html/32e60e94-8f00-bdab-fe00-a8bd8544d838.htm">
+        <HelpTOCNode Title="ComputeArea Method " Url="html/61a6e060-3ebc-4001-a377-7b57e54b2ce3.htm" />
+        <HelpTOCNode Title="ComputeCentroid Method " Url="html/511a4a4d-9669-bae3-3b27-ff5045dc7c67.htm" />
+        <HelpTOCNode Title="ComputeFaceNormal Method " Url="html/eeb62f32-c7fe-aa60-b857-6a5359c81b4f.htm" />
+        <HelpTOCNode Title="CreateBrep Method " Url="html/ac29e919-e6f8-5f50-74d2-66e72dd48763.htm" />
+        <HelpTOCNode Title="CreateBrepMatched Method " Url="html/a862b44e-5234-15a2-eb28-f4015f45a9e3.htm" />
+        <HelpTOCNode Title="CreatePair Method " Url="html/26d7e160-b3a5-e624-86e5-0cd53061fd46.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/ffbd3c02-0002-4496-3b14-a41f9884e70d.htm" />
+        <HelpTOCNode Title="FaceMesh Method " Url="html/9da05317-c32a-828e-ddf4-40e3861b9c47.htm" />
+        <HelpTOCNode Title="GetAllConnectedFaces Method " Url="html/e544e3af-185b-92d2-7a56-04f29bb80182.htm" />
+        <HelpTOCNode Title="GetConnectedFaces Method " Url="html/7f3b3ace-0d8f-65dc-c7a4-912056ba6610.htm" />
+        <HelpTOCNode Title="GetFacePlane Method " Url="html/5c71c5d9-3e28-f3e6-f246-d0d20e584b3f.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/46ca7025-7d03-f5ff-51d1-b3b768b3eaaa.htm" />
+        <HelpTOCNode Title="GetVertexPushDirections Method " Url="html/811a2d6a-5492-56d0-d124-b5db899b6d2d.htm" />
+        <HelpTOCNode Title="PlanarizeAndSetArea Method " Url="html/589b0794-005e-174f-fbbd-f925dfcd79e3.htm" />
+        <HelpTOCNode Title="SerializeDict Method " Url="html/2ca1761d-dabb-9d94-2de0-6fdaffc22fe7.htm" />
+        <HelpTOCNode Title="SerializeJson Method " Url="html/7063d501-c024-e588-cddb-1a29e7f5bcb5.htm" />
+        <HelpTOCNode Title="SetArea Method " Url="html/5b92d4b0-083e-59da-f8ce-a10104ff5a84.htm" />
+        <HelpTOCNode Title="SetNormalToDual Method " Url="html/0b59f47d-b8cb-4395-720d-bcae731d2c9a.htm" />
+        <HelpTOCNode Title="SortEdgesDual Method " Url="html/3235756a-e888-f5f9-a04e-0a241aecf8c8.htm" />
+        <HelpTOCNode Title="SortParts Method " Url="html/20b5f0c4-9cd9-a84f-109a-678384d121a6.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/4d802aa9-8427-7233-a101-b0f9a67591b1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69a5b7f7-36da-43fa-9517-6440e1c98968" Title="PFoam Class" Url="html/8b3bd46c-f1a1-7059-6367-f3d1e553b305.htm">
+      <HelpTOCNode Title="PFoam Constructor " Url="html/d847d140-0540-2ff6-a539-86cdb1ab5c1b.htm" />
+      <HelpTOCNode Id="ac77c801-e5ba-48a5-a795-9327dfaa47c0" Title="PFoam Properties" Url="html/ad6bb114-e9eb-266d-5070-52f1b9f7c2fc.htm">
+        <HelpTOCNode Title="Cells Property " Url="html/81dca202-e99c-eaf0-4824-1b8af6c4a33c.htm" />
+        <HelpTOCNode Title="Centroid Property " Url="html/70b7d5c2-14c3-108b-21d5-d96427874110.htm" />
+        <HelpTOCNode Title="Dual Property " Url="html/f38db07e-6547-f19d-4acf-4fc8b3080392.htm" />
+        <HelpTOCNode Title="Edges Property " Url="html/04b37aee-d574-c913-9385-28a31c0d52af.htm" />
+        <HelpTOCNode Title="ExtEdges Property " Url="html/9923e923-d6c2-4574-8505-fa0025e301fc.htm" />
+        <HelpTOCNode Title="ExtFaces Property " Url="html/e863a797-d00f-30c9-4944-5bc3badb190a.htm" />
+        <HelpTOCNode Title="ExtVetices Property " Url="html/4be59865-52c0-200d-fd2c-92e9a7d4d0d0.htm" />
+        <HelpTOCNode Title="Faces Property " Url="html/1ededa59-7b15-670f-e8b9-825cf7207406.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/283c2f8d-986e-bd89-fcc2-22dd12863a93.htm" />
+        <HelpTOCNode Title="MaxDeviation Property " Url="html/33965d36-dae6-5aa9-05a9-993b992a0fbe.htm" />
+        <HelpTOCNode Title="Vertices Property " Url="html/9787997d-5e06-b5ef-aa71-d139925efc65.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9e6b7d6b-9af3-4bec-804e-ef59ac1c1f41" Title="PFoam Methods" Url="html/3159c49a-9664-364d-dbd6-238b17292d4d.htm">
+        <HelpTOCNode Title="BakeCellsAsBreps Method " Url="html/ece18846-74a1-f34f-2234-397e4dd4be95.htm" />
+        <HelpTOCNode Title="BlueBrepFaces Method " Url="html/b9f06953-9b14-c538-2a8e-20bf6b23b50d.htm" />
+        <HelpTOCNode Title="CellPartition Method " Url="html/9b62b4d6-86ff-d822-a34e-b3293f74ce52.htm" />
+        <HelpTOCNode Title="ComputeDualVertices Method " Url="html/2795ee7b-ddd4-f1af-7b01-d12decf83533.htm" />
+        <HelpTOCNode Title="ComputePrimalVertices Method " Url="html/65506530-f636-0a6d-3d3e-69180e30ae56.htm" />
+        <HelpTOCNode Title="ConstructCells Method " Url="html/3ff7facd-88db-44e6-b412-37ce6c722c2f.htm" />
+        <HelpTOCNode Title="ConstructCellsAndSplit Method " Url="html/89845c67-ddee-f6d7-b7c3-f5c36b3f415e.htm" />
+        <HelpTOCNode Title="Contamination Method " Url="html/53f5fcef-5b6b-756a-d538-3b36b1eba218.htm" />
+        <HelpTOCNode Title="CreateDual Method " Url="html/fc079fa3-d488-b1c0-4132-c992d38c0f2e.htm" />
+        <HelpTOCNode Title="CreatePrimal Method " Url="html/2f80907d-f539-4f6a-8793-b3ae62774f28.htm" />
+        <HelpTOCNode Title="EdgeSmoothing Method " Url="html/d81798dd-716d-eb0b-c97c-e0402dadd259.htm" />
+        <HelpTOCNode Title="ExtractPairEdges Method " Url="html/f4384913-86da-9855-3688-39a7150643ab.htm" />
+        <HelpTOCNode Title="ExtractPairFaces Method " Url="html/0e17e82b-12c5-d1d9-407e-028e5041b9c1.htm" />
+        <HelpTOCNode Title="FoamPartition Method " Url="html/00a1bfb9-1ba1-b249-7f53-fa3207595188.htm" />
+        <HelpTOCNode Title="Hide Method " Url="html/9fcf9c17-4ebc-805f-08c6-21792a1557a1.htm" />
+        <HelpTOCNode Title="IsForm Method " Url="html/ad1e9027-0a27-bea3-b970-6f28e08714fd.htm" />
+        <HelpTOCNode Title="MakeCells Method " Url="html/e27d03fa-0172-7fab-8002-771f22d7bf24.htm" />
+        <HelpTOCNode Title="MakeMultipleCells Method " Url="html/b61e13f1-2e1d-ea39-a966-eb4eda30c5ec.htm" />
+        <HelpTOCNode Title="MoveFaceVertices Method " Url="html/4454fa9c-e8f3-2af2-a00b-1070aa1fafcf.htm" />
+        <HelpTOCNode Title="MoveFaceVertices_Form Method " Url="html/2c0bf0d0-9852-b8cc-bad3-40f8d9015951.htm" />
+        <HelpTOCNode Title="Offset Method " Url="html/2deed77c-5e3b-da34-6d21-466a6c4d6ca7.htm" />
+        <HelpTOCNode Title="Partition Method " Url="html/1799615c-d010-f030-1407-b6c84d33466b.htm" />
+        <HelpTOCNode Title="Perp Method " Url="html/1f026faa-b25e-696d-22fc-fb207dda9036.htm" />
+        <HelpTOCNode Title="PerpSoft Method " Url="html/2c4e64c7-78f0-a017-c606-5a8c3f5acf70.htm" />
+        <HelpTOCNode Title="PickEdge Method " Url="html/7237f821-224f-d849-ae28-23114726c4b8.htm" />
+        <HelpTOCNode Title="PickEdges Method " Url="html/5c5e96f6-b9ed-a559-7fc6-ce5a2e22d844.htm" />
+        <HelpTOCNode Title="PickEdgeSingle Method " Url="html/d03afcad-a599-cb1c-ac09-5173fbd58749.htm" />
+        <HelpTOCNode Title="PickFaces Method " Url="html/b8292639-f265-d6ef-baa8-e8b5dfeea503.htm" />
+        <HelpTOCNode Title="PickVertex Method " Url="html/b2326031-4436-b3c9-f310-83b5a439b141.htm" />
+        <HelpTOCNode Title="PickVertexSingle Method " Url="html/2e06138c-6595-b438-460e-f487a53f68ce.htm" />
+        <HelpTOCNode Title="PipeDual Method " Url="html/00fc4e9e-9128-ded0-5624-897d5aa9d7e5.htm" />
+        <HelpTOCNode Title="PipeGeoDual Method " Url="html/8ff217b5-3c9c-ac02-bf1c-6d766ec288ed.htm" />
+        <HelpTOCNode Title="Planarize Method " Url="html/31b0c1da-7e0e-a684-c62b-86d15c6c09a2.htm" />
+        <HelpTOCNode Title="PlanarizeSoft Method " Url="html/94ff5e52-17c4-bfa7-7c2f-c48c3e6bf086.htm" />
+        <HelpTOCNode Title="ProcessBFaces Method " Url="html/6068c30b-3f0f-3ffd-e2b9-9fba734ed0dd.htm" />
+        <HelpTOCNode Title="ProcessFaces Method " Url="html/7cdb8d82-ecb6-0912-0f08-454bb9a48d58.htm" />
+        <HelpTOCNode Title="SaveAsCells Method " Url="html/16675ab4-1c66-974b-bac6-4a38ad54fc6f.htm" />
+        <HelpTOCNode Title="SaveAsEdges Method " Url="html/a8897a33-ac93-bb61-62a0-3b51f14de05d.htm" />
+        <HelpTOCNode Title="SaveAsFaces Method " Url="html/3bd4b907-48fc-7661-67b0-3f61162c13c4.htm" />
+        <HelpTOCNode Id="3e725d49-8800-45ad-b436-3177f3c6119c" Title="SaveToDocument Method " Url="html/cf4eed22-a8d0-8f5f-9387-aa84c38407df.htm">
+          <HelpTOCNode Title="SaveToDocument Method (ContainerType)" Url="html/8e637051-b36a-d6ce-3311-e9acb38e9c26.htm" />
+          <HelpTOCNode Title="SaveToDocument Method (Boolean, ContainerType)" Url="html/1e914030-0020-fcb3-3c55-cf72d3b59950.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ScaleEdges Method " Url="html/5601d2c7-2545-1d3b-ad7c-0eda65e37fd0.htm" />
+        <HelpTOCNode Title="SerializeDict Method " Url="html/a8a766b4-98bc-dfa3-048c-7ec1caeace17.htm" />
+        <HelpTOCNode Title="SerializeFoamToFile Method " Url="html/6fb21230-5e15-823b-3fe3-e5c5c4878b55.htm" />
+        <HelpTOCNode Title="SerializeJson Method " Url="html/4b6dc289-032c-b586-b75f-ade9740c2711.htm" />
+        <HelpTOCNode Id="4de768e5-a35c-4bac-b10f-1e9c0dda957a" Title="SetVertexConstraints Method " Url="html/fd384cc0-d28c-e4dc-4b4d-0190c7f0e105.htm">
+          <HelpTOCNode Title="SetVertexConstraints Method (IList(PFVertex), RhinoObject, Double, Boolean)" Url="html/92a6bfc1-9d90-6188-b6ee-bda3551efa99.htm" />
+          <HelpTOCNode Title="SetVertexConstraints Method (IList(PFVertex), GeometryBase, Double, Boolean)" Url="html/255b0edd-0d50-a75d-3536-e9572261e63a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Show Method " Url="html/cceece8e-e9be-44b5-704d-e3eb79d2d1a5.htm" />
+        <HelpTOCNode Title="ShowCells Method " Url="html/017fe92d-c051-2f4e-ee31-81a9fbd6e9b9.htm" />
+        <HelpTOCNode Title="SimpleSmoothing2 Method " Url="html/fc75b5bf-e883-b3f3-873b-49732557de46.htm" />
+        <HelpTOCNode Title="SortPartsInFaces Method " Url="html/09a785bd-bd71-503d-8b80-862c384dcadd.htm" />
+        <HelpTOCNode Title="UpdateEdgesWithFaces Method " Url="html/9198b074-7bfe-ce01-143a-cd5811bbbf7a.htm" />
+        <HelpTOCNode Title="VolumeSphCyl Method " Url="html/cfbfb5e8-5a50-f253-b59d-521cc4f7f971.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8531888-8ad5-4f9e-b524-04e27d0bbcc1" Title="PfoamRef Class" Url="html/1c4c9a4e-6a46-c7de-1317-49a976adbebc.htm">
+      <HelpTOCNode Title="PfoamRef Constructor " Url="html/4a6bba69-4d1f-2d93-9b6b-34fc5cc15018.htm" />
+      <HelpTOCNode Id="c4793f34-d1ce-4e32-84d3-93d90556eb03" Title="PfoamRef Properties" Url="html/a391bdd5-1de0-1d6a-35e4-a9bd97a52b1a.htm">
+        <HelpTOCNode Title="Edges Property " Url="html/11bed24f-557f-3be5-da49-b135fbada8d8.htm" />
+        <HelpTOCNode Title="Faces Property " Url="html/8f40d8ae-943f-2241-625a-d37db8c1b823.htm" />
+        <HelpTOCNode Title="Vertices Property " Url="html/566919ed-84b5-fc06-6f44-8d369cee2bae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PfoamRef Methods" Url="html/c738f4a0-1ac9-0a40-1180-2331e82a21d7.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="264625a3-5569-4d1f-b947-fe04e8538e8b" Title="PFVertex Class" Url="html/b2024ddd-d1e2-2777-5f56-3f1868cc0f6c.htm">
+      <HelpTOCNode Id="6bf75a62-c312-4f1c-a306-d1512932e026" Title="PFVertex Constructor " Url="html/28e268b2-3937-ce28-cc6c-87e3a0efc585.htm">
+        <HelpTOCNode Title="PFVertex Constructor " Url="html/0b2d3f1d-1f41-c7db-c84d-a39ef5d62d3c.htm" />
+        <HelpTOCNode Title="PFVertex Constructor (Int32, Point3d)" Url="html/95124d44-e598-0577-c033-2aeb38e31d77.htm" />
+        <HelpTOCNode Title="PFVertex Constructor (Int32, Double, Double, Double)" Url="html/ba7ffcbd-8fd8-9843-4c85-814809754bd1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a627a45f-2161-4f81-b6a1-4511921d76ff" Title="PFVertex Properties" Url="html/9afb9d58-bda1-b3bd-3adc-c9fed2d3e85b.htm">
+        <HelpTOCNode Title="Adjacent Property " Url="html/36e37edf-c154-cecc-137e-7500cb64b627.htm" />
+        <HelpTOCNode Title="Cells Property " Url="html/fd5b1b06-b773-0067-bdef-8bdbf2e2acc1.htm" />
+        <HelpTOCNode Title="Dual Property " Url="html/88f176f3-89d3-6232-cea6-491f26f1743f.htm" />
+        <HelpTOCNode Title="Edges Property " Url="html/efa01276-f5a3-bea6-cd2a-5202d8bb9a14.htm" />
+        <HelpTOCNode Title="External Property " Url="html/99203f2e-2179-a04f-a783-15e46bd7f57f.htm" />
+        <HelpTOCNode Title="Faces Property " Url="html/4fb333d9-5b2e-92ad-640a-f032e82db256.htm" />
+        <HelpTOCNode Title="Fixed Property " Url="html/cece5dcf-377a-1962-d756-c43cd500c376.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/a277c815-8fc8-73aa-becf-cae4abe2b06d.htm" />
+        <HelpTOCNode Title="InfluenceCoef Property " Url="html/ae3330bc-f7ec-05fd-5116-425dd84760d0.htm" />
+        <HelpTOCNode Title="MaxTravel Property " Url="html/3a820cac-b1eb-b0d3-243f-b66be28a4918.htm" />
+        <HelpTOCNode Title="OnGeo Property " Url="html/69ff0bd2-1c7a-f3d5-2d00-898b85130729.htm" />
+        <HelpTOCNode Title="Picked Property " Url="html/84ab23c3-116b-4c18-dac0-fadf7d5be54b.htm" />
+        <HelpTOCNode Title="Point Property " Url="html/0fa4f999-c3a0-73cf-653b-8bf173e0ebd9.htm" />
+        <HelpTOCNode Title="RestrictPosition Property " Url="html/3c784e6d-c50d-f81a-823d-451b54e000d5.htm" />
+        <HelpTOCNode Title="RestrictSupport Property " Url="html/dd565cba-e52a-5706-f0f9-d58b67199064.htm" />
+        <HelpTOCNode Title="SupportGuid Property " Url="html/9e068837-78d1-12c2-2e58-3250e29ae1e3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="23ca62db-42e0-44c7-b9a0-a98518332451" Title="PFVertex Methods" Url="html/86279cb3-14a7-74fc-8311-6632f69f94a6.htm">
+        <HelpTOCNode Title="AverageVertexes Method " Url="html/5811a56d-292f-c118-8481-a23d886141ba.htm" />
+        <HelpTOCNode Title="ConstrainCurve Method " Url="html/f98a7659-1e74-8e4d-4dd5-57e3eec940b6.htm" />
+        <HelpTOCNode Title="ConstrainInBrep Method " Url="html/045e6662-9ca8-6017-1cba-b67d2b18d145.htm" />
+        <HelpTOCNode Title="ConstrainInMesh Method " Url="html/fefb5ecb-d3f7-275e-125e-8d4b1e3cd737.htm" />
+        <HelpTOCNode Title="ConstrainOnBrep Method " Url="html/4c494a9f-09a6-6c9f-9a9d-a16e06c96006.htm" />
+        <HelpTOCNode Title="ConstrainOnMesh Method " Url="html/db8c27f5-12a3-87b7-7655-7f446f76e186.htm" />
+        <HelpTOCNode Title="ConstrainPoint Method " Url="html/2166ba79-f6e2-2a71-bd50-7cad8bf63c83.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/68807105-c950-b5b5-93c5-8e251f73baae.htm" />
+        <HelpTOCNode Title="GetAdjacent Method " Url="html/5d7eb33e-c499-c6d6-816d-2b2fee4863cc.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/3231f3df-6b53-93c1-886a-87ea8c6d810e.htm" />
+        <HelpTOCNode Title="GetPoint Method " Url="html/dcff8e8a-d044-d33b-3f6d-cf09ddb6b334.htm" />
+        <HelpTOCNode Title="Move Method " Url="html/fe7f6e2f-6a1c-fd0b-375d-f22bbb3ef182.htm" />
+        <HelpTOCNode Title="PointInCell Method " Url="html/ee88c748-d3f7-2bfe-9ac5-e9835af672e7.htm" />
+        <HelpTOCNode Title="PopulateVertexCells Method " Url="html/05254d15-5fd6-ae7f-f283-5b79d725ade3.htm" />
+        <HelpTOCNode Title="PreDeserialization Method " Url="html/bac009ab-da9d-a430-7468-177dcbb50432.htm" />
+        <HelpTOCNode Title="RemoveDuplicates Method " Url="html/b4173e2c-667c-d6ab-426a-6163cf9ba696.htm" />
+        <HelpTOCNode Title="SerializeDict Method " Url="html/1ecf7026-35c5-003e-5fc8-2dd7377d5313.htm" />
+        <HelpTOCNode Title="SerializeJson Method " Url="html/ea5efc2a-324d-4c02-d16b-34f464d2593d.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/384e40d3-d58e-3749-e7e9-5773b4f59f62.htm" />
+        <HelpTOCNode Title="WeightAverageVertexes Method " Url="html/8f961884-8ce0-4b09-64a9-9561c19ac044.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="896e9a68-9c03-40a5-bfb5-bc72b4c8f26f" Title="PlanarWinForm Class" Url="html/3d294136-0d73-ee3a-e139-6cb432a57316.htm">
+      <HelpTOCNode Title="PlanarWinForm Constructor " Url="html/749726a7-4bb0-a357-3ead-26b1ca610ebc.htm" />
+      <HelpTOCNode Title="PlanarWinForm Properties" Url="html/86349cea-2f7c-42a9-6dd2-c83ce1d8a8ac.htm" />
+      <HelpTOCNode Id="40ad59d3-9584-485e-9cd4-fed9c98ad90f" Title="PlanarWinForm Methods" Url="html/fc8c8c37-fda7-700e-d8f0-1b3e660e58bd.htm">
+        <HelpTOCNode Id="3d8b1565-f170-4773-bff1-db7cc412b662" Title="Dispose Method " Url="html/c68a08ed-f15e-d7c4-59fe-602d3ecc69d3.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/e2f3e106-920c-08b9-2e06-87a0515ad2d5.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="PlanarWinForm Events" Url="html/23d1d265-1488-ee2c-4599-14d3590ee708.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="580d8bf6-396a-43de-af2b-dcaeb1e586c1" Title="PolyFrameworkException Class" Url="html/b06a5919-3669-ab2a-ddd2-1e44b3a8988d.htm">
+      <HelpTOCNode Id="d34787a5-8b2c-4247-9119-154646ddcbb8" Title="PolyFrameworkException Constructor " Url="html/d81a9b1a-e2d9-d095-bf6c-30e907ffb70f.htm">
+        <HelpTOCNode Title="PolyFrameworkException Constructor " Url="html/1ff5a647-a772-b112-2a5b-22a63fc72986.htm" />
+        <HelpTOCNode Title="PolyFrameworkException Constructor (String)" Url="html/ab9691c1-edba-c042-41c8-0b8e171fe01f.htm" />
+        <HelpTOCNode Title="PolyFrameworkException Constructor (String, Exception)" Url="html/c919c621-f201-68c4-9642-d20d9d024f80.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PolyFrameworkException Properties" Url="html/6e294e5f-a4a0-79b4-e6e0-b321285f655f.htm" />
+      <HelpTOCNode Title="PolyFrameworkException Methods" Url="html/c8d8f2b0-d7eb-3184-b34b-f1de0156928b.htm" />
+      <HelpTOCNode Title="PolyFrameworkException Events" Url="html/6291c53e-f7a4-36a2-91d9-a87e294cba56.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7972e55d-86f1-494a-9991-64ac863ab05c" Title="Util Class" Url="html/f726b5c4-5592-32b5-fc07-b196537500a9.htm">
+      <HelpTOCNode Id="7134e90a-fc01-4c25-9a9e-41c830026f90" Title="Util Methods" Url="html/312ba8cc-b908-4e37-aa2c-dd106ebf178e.htm">
+        <HelpTOCNode Title="Angle Method " Url="html/e8dc2627-4738-d167-a6b5-35797153b0d2.htm" />
+        <HelpTOCNode Title="AngleDeviationBlue Method " Url="html/580ef7ab-ca0b-8c37-81f5-c17fa1ea8d29.htm" />
+        <HelpTOCNode Title="AveragePoints Method " Url="html/27dd4bb7-36ad-6ab8-2b40-4e7a05894bd4.htm" />
+        <HelpTOCNode Title="BakeErrorGeo Method " Url="html/04de4398-737d-6a3f-9874-3259bfe6197f.htm" />
+        <HelpTOCNode Title="BFacePlanaritiy Method " Url="html/c9994d79-be0a-866d-44ac-717882e97ac6.htm" />
+        <HelpTOCNode Title="ConnectDuals Method " Url="html/320dda1f-765b-7ab4-9892-39d0c587dbb3.htm" />
+        <HelpTOCNode Title="CreateBlue Method " Url="html/e9fc7617-3784-e667-11a2-62adf2ffd4d4.htm" />
+        <HelpTOCNode Title="Decompose Method " Url="html/56634bf5-4986-6a1b-03b9-1596e82207cf.htm" />
+        <HelpTOCNode Title="DecomposeG Method " Url="html/a261bd2f-a94e-4d1d-22f4-885001dad9f6.htm" />
+        <HelpTOCNode Title="DeserializeFoam Method " Url="html/93080f8b-a243-3c61-61fa-35b13586bf3e.htm" />
+        <HelpTOCNode Title="DeserializeFoamFromJsonFile Method " Url="html/2f331a9a-b5ea-dc9d-1f20-236bdb1725c0.htm" />
+        <HelpTOCNode Title="DeviationToColorList Method " Url="html/f2e37a01-a313-5d3f-7aba-b59ce83b7353.htm" />
+        <HelpTOCNode Title="DeviationToColorListGreenRed Method " Url="html/b14cec06-7a04-991e-187a-afcfde2f6bcf.htm" />
+        <HelpTOCNode Title="Dot Method " Url="html/769b0882-3eb9-1db9-9ffd-36e41f6023b0.htm" />
+        <HelpTOCNode Title="DotAngle Method " Url="html/d2de7297-8165-3609-a0ab-321c9486b8a9.htm" />
+        <HelpTOCNode Title="ExtractFaces Method " Url="html/1b61dd96-78aa-bf9e-48c0-9dbff9916efb.htm" />
+        <HelpTOCNode Title="GetBrepfromGuids Method " Url="html/b484fc5f-6f3e-8dc8-b8f9-223010e72a21.htm" />
+        <HelpTOCNode Title="GetNistTime Method " Url="html/26b65816-bf41-de5f-1d7a-ad3b5d3af279.htm" />
+        <HelpTOCNode Title="InsideHedra Method " Url="html/cce050b4-5c8e-6de9-4890-f7366cf3d813.htm" />
+        <HelpTOCNode Title="LengthDeviationBlue Method " Url="html/182c1658-e9d7-1f66-451a-713f8101df14.htm" />
+        <HelpTOCNode Title="PointFromDict Method " Url="html/32aab26c-d4ee-43f4-15c8-5df1c5a756ef.htm" />
+        <HelpTOCNode Id="a58c0f9a-1ac4-44ad-8b16-f0842481c448" Title="PVToDict Method " Url="html/efa472c3-8103-d724-268a-0ba7fd986e31.htm">
+          <HelpTOCNode Title="PVToDict Method (Point3d)" Url="html/be281347-50b6-b94d-7583-1e95a41eb6c4.htm" />
+          <HelpTOCNode Title="PVToDict Method (Vector3d)" Url="html/a24830fd-6d34-57e6-657b-cd66021328a4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ScaleDeviationBlue Method " Url="html/4c3ddda4-7bc4-d88a-68ff-a75dbaa66a83.htm" />
+        <HelpTOCNode Title="ValueUnitizer Method " Url="html/d661db10-c3dd-ec3e-4718-957f5415a840.htm" />
+        <HelpTOCNode Title="VectorFromDict Method " Url="html/494ef5ed-f12e-8be6-e882-7634c409b693.htm" />
+        <HelpTOCNode Title="WeightedAverage Method " Url="html/c2173e0e-b3fa-c533-a76c-f2d2078c8da5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4d629c9b-7ba8-4dfa-96d5-feaff9b4ea24" Title="ValueInput Class" Url="html/b8a076ea-db0f-1f68-825f-d359a4854d30.htm">
+      <HelpTOCNode Title="ValueInput Constructor " Url="html/579c712b-39d1-cdae-8eea-4d9fe035a636.htm" />
+      <HelpTOCNode Id="01c7266d-3d50-45a6-830b-6c5c35d7fcb1" Title="ValueInput Properties" Url="html/adfa16c2-fe2a-b827-8fb0-5582588da72f.htm">
+        <HelpTOCNode Title="resValue Property " Url="html/f7900263-e46f-777a-c181-88b6b116ea40.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c0d82df-b3ef-4bbe-a6bb-eaa331504405" Title="ValueInput Methods" Url="html/c98d1186-1bf7-0a80-6f7a-a97e728bf5f1.htm">
+        <HelpTOCNode Id="a8274e7b-778f-4ce4-b791-cca8b20887b2" Title="Dispose Method " Url="html/6e833ea8-c5b7-a9f4-5dbc-23f3923974f3.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/2104e0cd-90ed-a485-d7b6-265841cadb65.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="ValueInput Events" Url="html/cfaef7c0-4893-6c2f-02a3-92f3c843191f.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bb4acf4d-eb49-4c7f-8323-33040468dd10" Title="PolyFramework.Utilities" Url="html/6e03361f-1087-8c06-64d5-8201055d5227.htm">
+    <HelpTOCNode Id="d2ff2e74-5d08-468a-86c5-4873d563cf9d" Title="Cube Class" Url="html/68258fa0-f34f-e426-0750-23c6ff180e03.htm">
+      <HelpTOCNode Title="Cube Constructor " Url="html/5447aa48-a13e-ee92-b63e-f841016a3f38.htm" />
+      <HelpTOCNode Id="dfb54935-3bd0-4d09-a290-856a08e83969" Title="Cube Properties" Url="html/01461a6a-072e-d003-08ea-9671a6b750ac.htm">
+        <HelpTOCNode Title="Vertices Property " Url="html/898b4f1c-1f5d-6297-d32c-6a3a6198f43c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Cube Methods" Url="html/be3db166-f227-5f30-25db-e626198336bd.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="13f49ba4-8d60-4674-aa24-d9c17a81f7ba" Title="IMarching Interface" Url="html/f97e1669-6ff1-9529-b0c9-459c7fef13ec.htm">
+      <HelpTOCNode Id="419e5073-6b45-4300-b8ac-049b50b0eec3" Title="IMarching Properties" Url="html/04eaf499-6fcf-e81e-f911-c322c448e16b.htm">
+        <HelpTOCNode Title="IsoVal Property " Url="html/965e900a-46bc-4324-e39d-2fd5c205e24b.htm" />
+        <HelpTOCNode Title="MarchType Property " Url="html/ab61e191-5ee0-a8e3-08b9-838cbb59e2af.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1dde32ac-0f25-45da-ba39-d7a52cbfb1f0" Title="IMarching Methods" Url="html/3054894b-58e6-9e8e-04db-c00e29de4ec1.htm">
+        <HelpTOCNode Title="Generate Method " Url="html/4e8b5cf3-d3f7-ac04-a836-16a675aba0ec.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a16b48b3-7fd1-47dc-9c35-e8bdf6299658" Title="Marching Class" Url="html/98f02f77-3f99-a158-d80f-b96efe9ee7fa.htm">
+      <HelpTOCNode Title="Marching Constructor " Url="html/095bcfb6-493d-6f38-88dc-065de2c0a1d8.htm" />
+      <HelpTOCNode Id="4ad6b975-8790-4b8b-8a3d-4fac53b42fef" Title="Marching Properties" Url="html/b9b2f4c4-6837-477e-f9ea-8f9e57200105.htm">
+        <HelpTOCNode Title="Cube Property " Url="html/0c302474-3f67-cbbb-f37c-14a1bc7e7777.htm" />
+        <HelpTOCNode Title="IsoVal Property " Url="html/a7a40f66-e55d-f7d6-138a-c65fb64bb72f.htm" />
+        <HelpTOCNode Title="MarchType Property " Url="html/27b08ae9-722f-20fc-94de-49e977846512.htm" />
+        <HelpTOCNode Title="Orientation Property " Url="html/a57c93c3-ad3d-a7a7-4fc0-940bcf8a0f30.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d9b338b7-6ebd-4b2e-b2c3-8bb0d69968bd" Title="Marching Methods" Url="html/5130e758-c9bd-22eb-00c8-f3195cb526aa.htm">
+        <HelpTOCNode Title="Generate Method " Url="html/1cf58074-c3b4-c4af-f56b-f035df8a2afb.htm" />
+        <HelpTOCNode Title="Generate_Para Method " Url="html/41ca9ce1-3042-eb16-0fdd-ee599a67cc38.htm" />
+        <HelpTOCNode Title="InterpolateValue Method " Url="html/9b3c8bff-540a-2a0f-1678-d4d9eee35120.htm" />
+        <HelpTOCNode Title="March Method " Url="html/e0244192-2518-4e7d-8702-607b4505132e.htm" />
+        <HelpTOCNode Title="March_Para Method " Url="html/2a98a85e-2b4b-9dae-21bd-e123fb934e65.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7e60f5a0-5d30-409d-adcb-2d39ba14dd4f" Title="MarchingCubes Class" Url="html/93e44a60-b8bd-5d66-48dd-1b9233208ae7.htm">
+      <HelpTOCNode Title="MarchingCubes Constructor " Url="html/ca55d325-b141-fae4-d76b-236857d123b6.htm" />
+      <HelpTOCNode Title="MarchingCubes Properties" Url="html/9c0ea9d1-7f15-3dcc-9de7-5d0f20c2b159.htm" />
+      <HelpTOCNode Id="d9c93029-db9b-48a0-8cb9-878342e9d723" Title="MarchingCubes Methods" Url="html/e3411294-a047-4459-83d6-60e28549e961.htm">
+        <HelpTOCNode Title="March Method " Url="html/5a69e71f-600d-63c4-ce76-9dae120f1b99.htm" />
+        <HelpTOCNode Title="March_Para Method " Url="html/fc53decf-0fc1-a126-9bce-185e14a13a53.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="MarchType Enumeration" Url="html/242f4cda-3079-1eab-e5ed-a1b533567f0f.htm" />
+    <HelpTOCNode Id="1c549982-0c57-4c05-8c20-80c8561a9d25" Title="Voxel Class" Url="html/3d127e27-fce6-a77a-1b83-dedc376d0fed.htm">
+      <HelpTOCNode Id="d1ba9ed8-8947-4c0b-9759-a73fde812bd0" Title="Voxel Constructor " Url="html/30cf3692-299c-f5cb-7a84-e452e6f87fa3.htm">
+        <HelpTOCNode Title="Voxel Constructor (Point3d, Int32, Int32, Int32)" Url="html/759b6495-b70c-9bb3-3e4e-a74cd6c4fdc5.htm" />
+        <HelpTOCNode Title="Voxel Constructor (Point3d, Double, Int32, Int32, Int32)" Url="html/a9198be6-9302-3a08-0927-72f1aded0cd6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b6400ead-1ead-4bb2-901a-563ec835b528" Title="Voxel Properties" Url="html/1bb027e1-3d5d-3359-1e64-c7e60addfa46.htm">
+        <HelpTOCNode Title="Factor Property " Url="html/f59088d6-326d-d733-a7a7-1b4b0944439d.htm" />
+        <HelpTOCNode Title="Ix Property " Url="html/b8619d76-6cb3-0803-1e1e-fd26602150a4.htm" />
+        <HelpTOCNode Title="Iy Property " Url="html/d6f3bc1f-c4bd-55ee-aa1b-ddf4adf24f34.htm" />
+        <HelpTOCNode Title="Iz Property " Url="html/53c5ecd9-47c9-e2e6-0c47-94552a6231b2.htm" />
+        <HelpTOCNode Title="Location Property " Url="html/b3c572b4-4679-9f68-f8ed-7b078811fe2a.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/d506d1a1-0980-bd1c-86ec-9d5d191b0d20.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="49233ee2-8899-4bad-aa06-a697f987c4af" Title="Voxel Methods" Url="html/6b688736-a6e2-9a3d-2b19-91bd37300fe0.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/0b0e8203-c6a4-94d0-c87c-bdbd439caa70.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="VoxelPos Enumeration" Url="html/ec27f305-f785-2922-2a93-9b629d9ef4bb.htm" />
+    <HelpTOCNode Id="4381fd36-2d4f-4a34-b0b3-68e27db70d93" Title="Voxels Class" Url="html/a545b0b1-1cdc-e31c-f739-575f980ad6da.htm">
+      <HelpTOCNode Title="Voxels Constructor " Url="html/40bce785-8e16-8ba7-4b21-d7d32c8d569c.htm" />
+      <HelpTOCNode Id="e302c6dc-984e-42bd-b2d4-19c21cd0c346" Title="Voxels Properties" Url="html/e0979508-10f1-78a5-d734-e31a98d035e2.htm">
+        <HelpTOCNode Title="Item Property " Url="html/432911d6-8175-d828-8485-4fb135421f03.htm" />
+        <HelpTOCNode Title="Plane Property " Url="html/4af09565-34a0-5918-b754-ae60694071b4.htm" />
+        <HelpTOCNode Title="XCount Property " Url="html/221783aa-fc5d-7e10-08e8-cfbfc55278b3.htm" />
+        <HelpTOCNode Title="XSize Property " Url="html/2616ca23-9bb7-9d7b-9170-c78572837632.htm" />
+        <HelpTOCNode Title="YCount Property " Url="html/f7a4e768-deef-b89f-a0fa-244c29d3d45a.htm" />
+        <HelpTOCNode Title="YSize Property " Url="html/a0667d38-8592-c60d-06d3-a8e42732c667.htm" />
+        <HelpTOCNode Title="ZCount Property " Url="html/891adf15-556b-27ca-ec17-87a0db302a38.htm" />
+        <HelpTOCNode Title="ZSize Property " Url="html/e16fedf9-0d3d-7ee1-9134-d9d3ba28c6e7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f4096e3f-8d8e-4929-a411-2da9b2706478" Title="Voxels Methods" Url="html/f2fc7803-15e9-b150-37d1-f1569839704b.htm">
+        <HelpTOCNode Title="ExtractVoxels Method " Url="html/9881fef7-4491-81b7-71bd-47e884baff4a.htm" />
+        <HelpTOCNode Title="MakeFromBox Method " Url="html/b1284c5e-1874-0d43-4c2b-33beb42c62eb.htm" />
+        <HelpTOCNode Title="MakeFromGeo Method " Url="html/7244d90e-ca2c-4a46-45d0-00f97a5894f5.htm" />
+        <HelpTOCNode Title="SetValuesFromEquation Method " Url="html/118c796d-b7c8-a98a-1d0e-4431d8073773.htm" />
+        <HelpTOCNode Title="SetValuesFromGeos Method " Url="html/9aa568bc-ba99-44d5-1ebf-9f2bd45049b6.htm" />
+        <HelpTOCNode Title="SetValuesFromGeos_Para Method " Url="html/d403babc-233e-8984-e244-7b909afe0f12.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="99f90756-85dd-41fd-96c4-09ee50974a90" Title="Voxels Fields" Url="html/dc7fd700-cd16-0a4f-1579-ae8973cd7cdc.htm">
+        <HelpTOCNode Title="_voxelDict Field" Url="html/e0b1ac20-2a74-5534-09ef-176ccfb4f54b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
