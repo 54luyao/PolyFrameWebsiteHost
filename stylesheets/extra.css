@@ -183,3 +183,15 @@
   .grid-long-logos .card img {
     max-height: 70px !important;
   }
+
+  :root {
+    --darkBlue: #0450b3;
+  }
+
+  [data-md-color-scheme="PFBlue"] {
+  --md-primary-fg-color:        var(--darkBlue);
+  /* --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C; */
+  --md-accent-fg-color:         var(--darkBlue);
+}
+
